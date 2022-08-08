@@ -1,5 +1,7 @@
 # Site fictício Receitas Omma
 
+## [Site feito apenas para computadores]
+
 #### *o "Receitas Omma" é um site de receitas fictício criado apenas para fins de estudo do código, especificamente HTML e CSS, com foco em estruturação de uma página, desde títulos, textos, parágrafos, até posicionamento de imagens, background, inputs, forms, linkamento de páginas etc.*
 
 [Clique aqui para acessar o site](https://gabrieleagle.github.io/Receitas-Omma-PCpage/)
